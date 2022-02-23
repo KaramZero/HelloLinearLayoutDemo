@@ -41,7 +41,8 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:text="Yellow"
-            android:textAlignment="center"
+            android:gravity="center"
+            android:layout_gravity="center"
             android:textSize="25dp"
             android:background="#ffffff00"/>
 
